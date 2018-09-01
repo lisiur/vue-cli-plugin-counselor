@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/lisiur/vue-cli-plugin-counselor/issues"
   },
-  "homepage": "https://github.com/lisiur/vue-cli-plugin-counselor#readme"
+  "homepage": "https://github.com/lisiur/vue-cli-plugin-counselor#readme",
+  "dependencies": {
+    "yaml-to-service": "^1.0.1"
+  }
 }

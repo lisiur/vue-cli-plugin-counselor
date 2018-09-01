@@ -590,9 +590,9 @@ wrappy@1:
   version "1.0.2"
   resolved "https://registry.npmjs.org/wrappy/-/wrappy-1.0.2.tgz#b5243d8f3ec1aa35f1364605bc0d1036e30ab69f"
 
-yaml-to-service@^0.1.3:
-  version "0.1.3"
-  resolved "https://registry.npmjs.org/yaml-to-service/-/yaml-to-service-0.1.3.tgz#530f3871b99fc06fe2965aef2760f04d1dfab212"
+yaml-to-service@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.npmjs.org/yaml-to-service/-/yaml-to-service-1.0.1.tgz#7b6ad0ccdafd2942d1e896885a2a4052b899cbb8"
   dependencies:
     dtsgenerator "^1.1.0"
     handlebars "^4.0.11"
