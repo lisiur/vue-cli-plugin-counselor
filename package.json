@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/lisiur/vue-cli-plugin-counselor#readme",
   "dependencies": {
-    "yaml-to-service": "^1.0.1"
+    "yaml-to-service": "^1.0.2"
   }
 }
